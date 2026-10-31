@@ -1,0 +1,16 @@
+tipo,algoritmo,tamanho,cenario,execucoes_medidas,media_ns,desvio_ns,min_ns,mediana_ns,max_ns
+busca,LinearIterativa,50000,ordenado,20,103495.0,2182.6,102300,102900.0,111000
+busca,LinearRecursiva,50000,ordenado,20,91645.0,45052.0,68600,72650.0,222200
+busca,BinariaIterativa,50000,ordenado,20,565.0,48.9,500,600.0,600
+busca,BinariaRecursiva,50000,ordenado,20,1830.0,3639.9,800,850.0,17000
+busca,LinearDuasPontas,50000,ordenado,20,61850.0,2254.7,61200,61300.0,71400
+busca,LinearIterativa,150000,ordenado,20,57420.0,2152.0,56100,56600.0,64900
+busca,LinearRecursiva,150000,ordenado,20,796150.0,345799.5,514500,603500.0,1699300
+busca,BinariaIterativa,150000,ordenado,20,640.0,50.3,600,600.0,700
+busca,BinariaRecursiva,150000,ordenado,20,330.0,92.3,200,300.0,600
+busca,LinearDuasPontas,150000,ordenado,20,96930.0,14676.3,89600,91100.0,152900
+busca,LinearIterativa,500000,ordenado,20,80715.0,23456.8,67100,70450.0,138500
+busca,LinearRecursiva,500000,ordenado,20,4577830.0,1689875.9,3137400,3882200.0,10806200
+busca,BinariaIterativa,500000,ordenado,20,905.0,1059.5,600,700.0,5400
+busca,BinariaRecursiva,500000,ordenado,20,265.0,48.9,200,300.0,300
+busca,LinearDuasPontas,500000,ordenado,20,146650.0,15161.4,133800,139700.0,176900

@@ -1,0 +1,6 @@
+out/
+resultados_teste/
+graficos_teste/
+
+.idea/
+*.iml
